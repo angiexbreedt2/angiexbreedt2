@@ -71,10 +71,10 @@ When I’m not immersed in tech, you’ll probably find me:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/angiexbreedt" target="_blank">
-    <img src="https://img.shields.io/badge/Uni%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/University-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/angiexbreedt2" target="_blank">
-    <img src="https://img.shields.io/badge/Personal%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Personal-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
