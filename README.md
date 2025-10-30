@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Angelique</h1>
+<h1 align="center">Hey there 👋, I'm Angie</h1>
 
 <!-- Typing SVG -->
 <h1 align="center">
