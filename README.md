@@ -12,7 +12,7 @@
 -->
 
 ### About Me  
-- 💻 Final-year **BSc Computer Science** student at the **University of Pretoria** interested in **software engineering and cybersecurity**  
+- 💻 **BScHons Computer Science** student at the **University of Pretoria** interested in **Cybersecurity & AI** as well as **Software Engineering** 
 - 💡 I love turning ideas into reality through **clean, maintainable code**  
 - ☀️ I believe in lifelong learning, positive impact, and growing a little more every day  
 
