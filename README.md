@@ -22,10 +22,9 @@
 When I’m not immersed in tech, you’ll probably find me:  
 - 🏋️‍♀️ **At the gym**, chasing progress and strength — both mental and physical  
 - 🧘‍♀️ **Meditating**, finding balance and clarity in a fast-paced world  
-- 🌱 **Advocating for animals**, because every voice matters  
 - 💬 **Learning Spanish**, porque es un idioma muy bonito 
 
-> 🌸 **Philosophy:** *Choose kindness — for all other humans, animals, and this beautiful planet we live on.🌿*  
+> 🌸 **Philosophy:** *Choose kindness🌿*  
 
 ---
 
